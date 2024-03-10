@@ -12,6 +12,7 @@ export default function(){
                     ,   Next.js ensures that search engines can easily crawl    and index this page,boosting it's SEO.Plus,serving static content 
                     leads to faster load times and a smooth user experience. And if I need interactivity Next.js allows me to use the "use client" directive for specific components
                 </div>
+                {/* //Checking */}
                 <div className="max-w-md text-sm px-5">
                     Pretty cool,right? Now navigate to the 'Client page' to check how interactivity is added in Next.js!
                 </div>

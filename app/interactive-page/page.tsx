@@ -13,6 +13,7 @@ export default function(){
                     ,   Next.js ensures that search engines can easily crawl    and index this page,boosting it's SEO.Plus,serving static content 
                     leads to faster load times and a smooth user experience. 
             </div>
+            
             <button type="button" onClick={()=>{
                 setCount(count+1);
             }} className="ml-5 px-4 text-sm mt-2 py-2 border-2 border-black hover:bg-gray-200 rounded-md max-w-28">count is {count}</button>

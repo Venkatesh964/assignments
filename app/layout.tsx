@@ -25,10 +25,7 @@ export default function RootLayout({
   );
 }
 
- 
-// export function Page() {
-//   return <Link href="/static-page"></Link>
-// }
+
 
 function AppBar(){
   return <div>
